@@ -1,5 +1,5 @@
-### SUPRIYA PRABHU 
-### 212224240165
+### SUBASH M 
+### 212224220109
 
 # Experiment-02 Introduction to Roboanalyzer 
 ## AIM: 
